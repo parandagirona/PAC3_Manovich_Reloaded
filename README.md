@@ -5,6 +5,7 @@
 **Assignatura**: Cultura Digital  
 **Data**: Maig de 2025  
 
+![portada](img/portada.jpg)
 
 ## Spotify – L'escolta musical com a algoritme viu
 Spotify ja no és només una aplicació per escoltar música; és un exemple molt clar d’allò que Lev Manovich anomena hibridació digital. En aquest cas, es combinen tecnologies avançades, anàlisi de dades, disseny d’interfícies, algoritmes d’intel·ligència artificial i formes de participació pròpies de la cultura digital. Quan utilitzem Spotify, no estem només triant una cançó: estem entrant en un ecosistema que creua l’àudio, el codi, la interacció i l’experiència personal.
