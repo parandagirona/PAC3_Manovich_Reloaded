@@ -5,9 +5,18 @@
 **Assignatura**: Cultura Digital  
 **Data**: Maig de 2025  
 
-![portada](imatge.jpg)
+## Introducció
 
-## Spotify – L'escolta musical com a algoritme viu
+Aquest assaig parteix de les idees de Lev Manovich per reflexionar sobre com les tecnologies digitals han canviat la manera com creem, compartim i consumim cultura. Ens preguntem què passa quan el codi, les bases de dades i les interfícies visuals entren en joc en el món de l’art, els mitjans i la comunicació. Amb aquest assaig intentem entendre millor com és la cultura digital que ens envolta i com ens hi relacionem en el nostre dia a dia.
+
+___
+
+![Spotify](https://upload.wikimedia.org/wikipedia/commons/2/24/Spotify_New_Full_Logo_RGB_Green.png) 
+
+## CAS 1: Spotify – L'escolta musical com a algoritme viu
+
+
+
 
 ### Un exemple d'hibridació digital
 Spotify ja no és només una aplicació per escoltar música; és un exemple molt clar d’allò que Lev Manovich anomena hibridació digital. En aquest cas, es combinen tecnologies avançades, anàlisi de dades, disseny d’interfícies, algoritmes d’intel·ligència artificial i formes de participació pròpies de la cultura digital. Quan utilitzem Spotify, no estem només triant una cançó: estem entrant en un ecosistema que creua l’àudio, el codi, la interacció i l’experiència personal.
@@ -22,7 +31,11 @@ També cal tenir en compte com Spotify s'integra amb altres plataformes i contex
 ### Conclusió
 En definitiva, Spotify és un bon exemple d’hibridació digital tal com la defineix Manovich: una interfície on convergeixen programari, cultura popular, disseny interactiu i experiència personal. Ja no escoltem música de manera passiva o lineal, sinó que ho fem dins d’un sistema viu, que aprèn, proposa i convida a participar. La música, filtrada per l’algoritme, esdevé una experiència híbrida: part tecnològica, part cultural, part emocional.
 
-## Google Lens – De la càmera a la comprensió visual
+
+___
+![Google Lens](https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_of_Google_Lens.svg) 
+## CAS 2: Google Lens – De la càmera a la comprensió visual
+
 Google Lens és molt més que una eina de reconeixement visual: és un bon exemple d’hibridació entre el món físic i el digital. Només cal obrir la càmera i apuntar a un objecte perquè el sistema identifiqui què és, n’ofereixi informació, en tradueixi el text, en compari el preu o fins i tot et digui de quina planta o animal es tracta. Aquí es barregen, de manera fluida, intel·ligència artificial, visió per computador i accés a una gran base de dades en línia. La càmera, que abans només capturava imatges, ara actua com un pont entre allò que veiem i allò que podem saber.
 
 ### Navegació expendida
@@ -36,6 +49,7 @@ Google Lens ens mostra com la tecnologia pot integrar-se de manera fluida en el 
 
 Allò que abans era només una imatge ara pot ser una definició, una traducció, una resposta. En aquest sentit, Google Lens no només reconeix el món que ens envolta, sinó que l’interpreta i ens l’explica. És un bon exemple de com el programari pot ampliar els límits de la percepció i fer del nostre entorn una experiència digitalment enriquida.
 
+___
 ## Bibliografia i webgrafia
 - Manovich, L. (2013). *El software toma el mando*. **Editorial UOC**.
 - Manovich, L. (2007). *Understanding Hybrid Media*.
@@ -48,6 +62,10 @@ Allò que abans era només una imatge ara pot ser una definició, una traducció
 - Iván Ramírez (2024, 12 de juny). *Google Lens a fondo: todo lo que puedes hacer con la app de reconocimiento de objetos de Google*.
 **Xataka**. [URL](https://www.xatakandroid.com/tutoriales/google-lens-a-fondo-todo-que-puedes-hacer-app-reconocimiento-objetos-google)
 
+___
 ## Llicència
 [![](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/deed.ca)<br>
-Aquest projecte està sota llicència [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
+Aquest projecte està sota llicència [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). 
+
+Imatges sota domini públic. [Wikimedia](https://commons.wikimedia.org/) 
+
